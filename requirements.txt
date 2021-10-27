@@ -1,0 +1,12 @@
+torch
+opencv_python
+torchvision
+numpy
+requests
+pandas
+torchextractor
+scikit_image
+auto_mix_prep
+Pillow
+scikit-image
+image-quality
